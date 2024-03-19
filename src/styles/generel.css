@@ -43,7 +43,7 @@ body {
   background-color: var(---background-color);
   background-image: url(/public/img/Artboard.webp);
   font-family: inter;
-  background-size: cover;
+  background-size: contain;
 }
 
 h1,
