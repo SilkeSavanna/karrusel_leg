@@ -41,7 +41,7 @@ video {
 
 body {
   background-color: var(---background-color);
-  background-image: url();
+  background-image: url(/public/img/Artboard.webp);
   font-family: inter;
   background-size: cover;
 }
